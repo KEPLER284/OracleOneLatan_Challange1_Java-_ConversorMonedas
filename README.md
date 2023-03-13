@@ -43,7 +43,7 @@ Es el primer Challenge en Java relacionado con la ruta de especialización Backe
 
 [![eligirconversion-a-soles.png](https://i.postimg.cc/tRMLSGhL/eligirconversion-a-soles.png)](https://postimg.cc/QVc4CPYb)
 
-<p>Ingresamos la monto a convertir y el resultado : </p>
+<p>Ingresamos el monto a convertir damos click en aceptar y verificamos el resultado : </p>
 
 [![convertira-Soles.png](https://i.postimg.cc/fy829mM3/convertira-Soles.png)](https://postimg.cc/q6Cxfth0)
 
